@@ -1,0 +1,10 @@
+Hello, this is the function ploter made by Islam Ashraf 
+This program allows you to enter a function and it'll plot the graph for you
+Features:
+    1- you can enter the minimum x and maximum y values
+    2- Friendly and easy to understand design
+    3- Error handling
+    4- cool instructions scenario
+
+Problems:
+    1-Could not get test functions to work.
